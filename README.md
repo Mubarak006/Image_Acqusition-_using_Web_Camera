@@ -10,20 +10,22 @@ iv) Rotate and display the video
 ## Software Used
 Anaconda - Python 3.7
 ## Algorithm
+
 ### Step 1:
-<br>
+Import OpenCV Package.
 
 ### Step 2:
-<br>
+Capture Video from Webcam. Use VideoCapture(0) to access the webcam and start capturing video.
 
 ### Step 3:
-<br>
+Read Video or Image. Utilize 'imread' to read a video frame or image from the webcam.
 
 ### Step 4:
-<br>
+Save Image to File. Employ 'imwrite' to save the captured image to a file.
 
 ### Step 5:
-<br>
+Display Video or Image. Use 'imshow' to display the captured video frame or image.
+
 
 ## Program:
 
